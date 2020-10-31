@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b32bedf7-6c23-433f-b970-99fb160c296a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_linear_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_linear_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gbm_importance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xgb_importances.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_non_linear_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_non_linear_models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +111,8 @@
       <workItem from="1604135283782" duration="10969000" />
       <workItem from="1604146463731" duration="960000" />
       <workItem from="1604147472429" duration="9486000" />
-      <workItem from="1604165698836" duration="5091000" />
+      <workItem from="1604165698836" duration="10292000" />
+      <workItem from="1604179025795" duration="2713000" />
     </task>
     <servers />
   </component>
@@ -143,6 +147,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="781" y="359" key="SettingsEditor/2560.337.1440.877/0.0.2560.1440@0.0.2560.1440" timestamp="1604145409657" />
+    <state width="511" height="445" key="SwitcherDM" timestamp="1604174633323">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="511" height="445" key="SwitcherDM/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604174633323" />
     <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1604142256051">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
