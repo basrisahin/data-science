@@ -279,6 +279,10 @@ has_outliers(df, num_cols)
 train_df = df[df['SalePrice'].notnull()]
 test_df = df[df['SalePrice'].isnull()]
 
+# save clean train and test files to as pickle file.
+train_df.to_pickle('/Users/basrisahin/Documents/GitHub/data-science/house_price_prediction/data/processed/train_df.pkl')
+test_df.to_pickle('/Users/basrisahin/Documents/GitHub/data-science/house_price_prediction/data/processed/test_df.pkl')
+
 X = train_df.drop('SalePrice', axis=1)
 y = train_df[["SalePrice"]]
 
