@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b32bedf7-6c23-433f-b970-99fb160c296a" name="Default Changelist" comment="" />
+    <list default="true" id="b32bedf7-6c23-433f-b970-99fb160c296a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/house_price_prediction/models/Kendime notlar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house_price_prediction/models/house_prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data-science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-science.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,9 +50,51 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/house_price_prediction/models" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/house_price_prediction/models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/house_price_prediction/models" />
+      <recent name="$PROJECT_DIR$/house_price_prediction/models/MVK" />
+      <recent name="$PROJECT_DIR$/house_price_prediction/models/hazırlıklar" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="data-science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,11 +104,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604135282714</updated>
-      <workItem from="1604135283782" duration="108000" />
+      <workItem from="1604135283782" duration="10969000" />
+      <workItem from="1604146463731" duration="960000" />
+      <workItem from="1604147472429" duration="9486000" />
+      <workItem from="1604165698836" duration="1991000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604136395349">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604136395349" />
+    <state x="781" y="359" key="SettingsEditor" timestamp="1604145409657">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="781" y="359" key="SettingsEditor/2560.337.1440.877/0.0.2560.1440@0.0.2560.1440" timestamp="1604145409657" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1604142256051">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604142256051" />
   </component>
 </project>
