@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b32bedf7-6c23-433f-b970-99fb160c296a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/data-science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-science.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/house_price_prediction/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/models/sketchs/house_prediction.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +64,11 @@
       <recent name="$PROJECT_DIR$/house_price_prediction/models" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/house_price_prediction" />
       <recent name="$PROJECT_DIR$/house_price_prediction/models/sketchs" />
       <recent name="$PROJECT_DIR$/house_price_prediction/notes" />
       <recent name="$PROJECT_DIR$/house_price_prediction/models" />
       <recent name="$PROJECT_DIR$/house_price_prediction/models/MVK" />
-      <recent name="$PROJECT_DIR$/house_price_prediction/models/hazırlıklar" />
     </key>
   </component>
   <component name="RunManager">
@@ -104,7 +106,7 @@
       <workItem from="1604135283782" duration="10969000" />
       <workItem from="1604146463731" duration="960000" />
       <workItem from="1604147472429" duration="9486000" />
-      <workItem from="1604165698836" duration="2406000" />
+      <workItem from="1604165698836" duration="2614000" />
     </task>
     <servers />
   </component>
