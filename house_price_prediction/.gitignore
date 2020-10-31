@@ -81,8 +81,11 @@ target/
 # exlude notes
 /notes/
 
-# exlude sketch models
+# exclude sketch models
 /course/
+
+# exclude videos
+/videos/
 
 # Mac OS-specific storage files
 .DS_Store
