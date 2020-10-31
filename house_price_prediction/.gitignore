@@ -81,6 +81,9 @@ target/
 # exlude notes
 /notes/
 
+# exlude sketch models
+/models/sketchs
+
 # Mac OS-specific storage files
 .DS_Store
 
