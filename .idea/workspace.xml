@@ -20,18 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b32bedf7-6c23-433f-b970-99fb160c296a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_non_linear_models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/videos/02-03.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/videos/03-01-01.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/videos/03-01-02.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/videos/03-01-03.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/videos/03-02.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/videos/03-03.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/videos/03-04.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/videos/04-01.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/videos/04-02.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/house_price_prediction/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -118,7 +108,7 @@
       <workItem from="1604135283782" duration="10969000" />
       <workItem from="1604146463731" duration="960000" />
       <workItem from="1604147472429" duration="9486000" />
-      <workItem from="1604165698836" duration="4306000" />
+      <workItem from="1604165698836" duration="4767000" />
     </task>
     <servers />
   </component>
@@ -145,10 +135,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="880" y="368" key="#Plugins/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604172092888" />
-    <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604136395349">
+    <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604172994348">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604136395349" />
+    <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604172994348" />
     <state x="781" y="359" key="SettingsEditor" timestamp="1604145409657">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
