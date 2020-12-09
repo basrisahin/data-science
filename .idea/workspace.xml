@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b32bedf7-6c23-433f-b970-99fb160c296a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gbm_importance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgb_importances.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.test.py.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house_price_prediction/src/data/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_non_linear_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_non_linear_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_linear_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_linear_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/src/data/make_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/src/data/make_dataset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,15 +67,15 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/house_price_prediction/models" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/house_price_prediction/models" />
       <recent name="$PROJECT_DIR$/house_price_prediction/videos" />
       <recent name="$PROJECT_DIR$/house_price_prediction/course" />
       <recent name="$PROJECT_DIR$/house_price_prediction" />
       <recent name="$PROJECT_DIR$/house_price_prediction/models/sketchs" />
-      <recent name="$PROJECT_DIR$/house_price_prediction/notes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/house_price_prediction/models" />
     </key>
   </component>
   <component name="RunManager">
@@ -112,7 +114,10 @@
       <workItem from="1604146463731" duration="960000" />
       <workItem from="1604147472429" duration="9486000" />
       <workItem from="1604165698836" duration="10292000" />
-      <workItem from="1604179025795" duration="2713000" />
+      <workItem from="1604179025795" duration="4824000" />
+      <workItem from="1604658906975" duration="2278000" />
+      <workItem from="1605944026413" duration="16574000" />
+      <workItem from="1607026435989" duration="7949000" />
     </task>
     <servers />
   </component>
@@ -139,10 +144,11 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="880" y="368" key="#Plugins/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604172092888" />
-    <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604173695436">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="833" y="549" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606156189529">
+      <screen x="72" y="23" width="2488" height="1417" />
     </state>
-    <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604173695436" />
+    <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1605955041327" />
+    <state x="833" y="549" key="#com.intellij.fileTypes.FileTypeChooser/2560.337.1440.877/72.23.2488.1417@72.23.2488.1417" timestamp="1606156189529" />
     <state x="781" y="359" key="SettingsEditor" timestamp="1604145409657">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -151,9 +157,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="511" height="445" key="SwitcherDM/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604174633323" />
-    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1604142256051">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="990" y="349" width="670" height="666" key="search.everywhere.popup" timestamp="1607027514141">
+      <screen x="72" y="23" width="2488" height="1417" />
     </state>
-    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604142256051" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604660812241" />
+    <state x="990" y="349" width="670" height="666" key="search.everywhere.popup/2560.337.1440.877/72.23.2488.1417@72.23.2488.1417" timestamp="1607027514141" />
   </component>
 </project>

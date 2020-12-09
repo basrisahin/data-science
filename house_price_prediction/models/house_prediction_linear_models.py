@@ -27,7 +27,7 @@ def load_fix_house_price(class_count=20):
     data = train.append(test).reset_index()
 
     cat_seen_as_numeric = [col for col in data.columns if data[col].dtypes != 'O'
-                    and len(data[col].value_counts()) < class_count]
+                           and len(data[col].value_counts()) < class_count]
 
     for col in cat_seen_as_numeric:
         data[col] = data[col].astype(object)
@@ -142,7 +142,6 @@ cat_cols = [col for col in cat_cols if col not in cat_drop_list]
 for col in cat_drop_list:
     df.drop(col, axis=1, inplace=True)
 
-
 # lets examine numerical variables
 
 for col in num_cols:
@@ -156,6 +155,7 @@ num_cols = [col for col in num_cols if col not in num_drop_list]
 # drop drop list columns from dataset
 for col in num_drop_list:
     df.drop(col, axis=1, inplace=True)
+
 
 # Missing values
 
@@ -237,6 +237,7 @@ for col in num_cols:
 # It can be applied only numeric columns
 cols_need_scale = [col for col in num_cols if col not in ("Id", "SalePrice")]
 
+
 def robust_scaler(variable):
     var_median = variable.median()
     quartile1 = variable.quantile(0.25)
@@ -272,7 +273,6 @@ df, new_cols_ohe = one_hot_encoder(df, cat_cols)
 # last controls
 missing_values_table(df)
 has_outliers(df, num_cols)
-
 
 # modeling
 
