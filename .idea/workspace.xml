@@ -20,17 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b32bedf7-6c23-433f-b970-99fb160c296a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.test.py.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_prediction/src/data/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbt-unittest/.idea/dbt-unittest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbt-unittest/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbt-unittest/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbt-unittest/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data-science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-science.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_linear_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/models/house_prediction_linear_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/house_price_prediction/src/data/data.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/house_price_prediction/src/data/make_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_price_prediction/src/data/make_dataset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,12 +52,23 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="3869fcfb-dff5-4227-bbe2-066b69a77f5c" />
   <component name="ProjectId" id="1jdY9IDmfxzOkjzjo7tqQBk6B3Q" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -64,18 +88,18 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/house_price_prediction/models" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/house_price_prediction" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/house_price_prediction/models" />
       <recent name="$PROJECT_DIR$/house_price_prediction/videos" />
       <recent name="$PROJECT_DIR$/house_price_prediction/course" />
-      <recent name="$PROJECT_DIR$/house_price_prediction" />
-      <recent name="$PROJECT_DIR$/house_price_prediction/models/sketchs" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/house_price_prediction/models" />
     </key>
   </component>
   <component name="RunManager">
@@ -117,7 +141,11 @@
       <workItem from="1604179025795" duration="4824000" />
       <workItem from="1604658906975" duration="2278000" />
       <workItem from="1605944026413" duration="16574000" />
-      <workItem from="1607026435989" duration="7949000" />
+      <workItem from="1607026435989" duration="8546000" />
+      <workItem from="1607521153891" duration="5880000" />
+      <workItem from="1607605217189" duration="4980000" />
+      <workItem from="1608894221847" duration="5474000" />
+      <workItem from="1608999007294" duration="2000" />
     </task>
     <servers />
   </component>
@@ -144,15 +172,20 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="880" y="368" key="#Plugins/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1604172092888" />
-    <state x="833" y="549" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606156189529">
+    <state x="833" y="549" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607519999089">
       <screen x="72" y="23" width="2488" height="1417" />
     </state>
     <state x="783" y="535" key="#com.intellij.fileTypes.FileTypeChooser/2560.314.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1605955041327" />
-    <state x="833" y="549" key="#com.intellij.fileTypes.FileTypeChooser/2560.337.1440.877/72.23.2488.1417@72.23.2488.1417" timestamp="1606156189529" />
-    <state x="781" y="359" key="SettingsEditor" timestamp="1604145409657">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="833" y="549" key="#com.intellij.fileTypes.FileTypeChooser/2560.337.1440.877/72.23.2488.1417@72.23.2488.1417" timestamp="1607519999089" />
+    <state x="1004" y="474" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607520815122">
+      <screen x="72" y="23" width="2488" height="1417" />
+    </state>
+    <state x="1004" y="474" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2560.337.1440.877/72.23.2488.1417@72.23.2488.1417" timestamp="1607520815122" />
+    <state x="831" y="376" key="SettingsEditor" timestamp="1608998108896">
+      <screen x="72" y="23" width="2488" height="1417" />
     </state>
     <state x="781" y="359" key="SettingsEditor/2560.337.1440.877/0.0.2560.1440@0.0.2560.1440" timestamp="1604145409657" />
+    <state x="831" y="376" key="SettingsEditor/2560.337.1440.877/72.23.2488.1417@72.23.2488.1417" timestamp="1608998108896" />
     <state width="511" height="445" key="SwitcherDM" timestamp="1604174633323">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>

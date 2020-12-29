@@ -1,7 +1,7 @@
 house_price_prediction
 ==============================
 
-A short description of the project.
+ML project for house prediction
 
 Project Organization
 ------------

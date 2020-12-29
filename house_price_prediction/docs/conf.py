@@ -231,7 +231,7 @@ man_pages = [
 texinfo_documents = [
     ('index', 'house_price_prediction', u'house_price_prediction Documentation',
      u"Basri Sahin", 'house_price_prediction',
-     'A short description of the project.', 'Miscellaneous'),
+     'ML project for house prediction', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

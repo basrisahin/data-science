@@ -29,7 +29,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../house_price_prediction/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../house_price_prediction/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../house_price_prediction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../house_price_prediction/README.md" afterDir="false" />
@@ -131,7 +130,8 @@
       <workItem from="1609231456569" duration="9184000" />
       <workItem from="1609252167834" duration="1040000" />
       <workItem from="1609253296124" duration="210000" />
-      <workItem from="1609253583551" duration="62000" />
+      <workItem from="1609253583551" duration="313000" />
+      <workItem from="1609253953065" duration="9000" />
     </task>
     <servers />
   </component>

@@ -5,9 +5,11 @@
       <excludeFolder url="file://$MODULE_DIR$/house_price_prediction/course" />
       <excludeFolder url="file://$MODULE_DIR$/house_price_prediction/data" />
       <excludeFolder url="file://$MODULE_DIR$/house_price_prediction/notes" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (dsmlbc) (2)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (data-science)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="dbt-unittest" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
