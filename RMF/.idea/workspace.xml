@@ -23,18 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80b93ba0-89b2-450f-813b-ae0a8e15fc72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/RMF.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/rfm.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/rfm_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preperation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/data-science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/data-science.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../house_price_prediction/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../house_price_prediction/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../house_price_prediction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../house_price_prediction/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../house_price_prediction/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/../house_price_prediction/docs/conf.py" afterDir="false" />
@@ -133,7 +129,7 @@
       <workItem from="1609157563831" duration="7259000" />
       <workItem from="1609170987862" duration="2187000" />
       <workItem from="1609231456569" duration="9184000" />
-      <workItem from="1609252167834" duration="945000" />
+      <workItem from="1609252167834" duration="1040000" />
     </task>
     <servers />
   </component>

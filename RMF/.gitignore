@@ -1,5 +1,5 @@
 # exclude venv from source control by default
-/venv/
+/conda_venv/
 /data/
 
 
